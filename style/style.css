@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to left, #124e5e, #71b280);
+    font-family: sans-serif;
+    color: white;
+    align-items: center;
+}
+
+.main {
+    position: relative;
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    top: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
